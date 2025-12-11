@@ -1,0 +1,10 @@
+.env
+build
+include
+lib
+lib64
+bin
+pyvenv.cfg
+.vscode
+sample*
+input.txt
